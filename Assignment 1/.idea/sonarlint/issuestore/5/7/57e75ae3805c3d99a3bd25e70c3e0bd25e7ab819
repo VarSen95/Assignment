@@ -1,0 +1,16 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï°³ñ8á¦˜ø‹-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(«êÿïúÿÿÿÿ8²¬—ø‹-
+qsquid:S00116"RRename this field "Celsius" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú…æ«8ç¯”÷‹-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÛÇüùÿÿÿÿ8²¬—ø‹-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ßÒÏ8á¦˜ø‹-
+ysquid:S00116"URename this field "Fahrenheit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í°ð¥ÿÿÿÿÿ8ç¯”÷‹-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(èìÀ®úÿÿÿÿ8ºÓˆø‹-
+usquid:S00116"QRename this field "Kelvin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û›ÖÖýÿÿÿÿ8ç¯”÷‹-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õî¯€8Š¬Žø‹-
